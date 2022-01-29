@@ -1,4 +1,9 @@
 # Automatic-modulation-classification
+Source code of Modulation Classification using Neural Networks
+
+In this project, we use the RADIOML 2016.10A dataset prepared by DeepSig, which promotes the application of deep learning to wireless communication.
+The dataset can be downloaded at https://www.deepsig.io/datasets.
+
 ## Abstract: 
 Neural networks have received a lot of attention in the recent years due to its superior performance in classifying data with
 complex structure. In this project, the feasibility and effectiveness of applying deep learning algorithms for automatic recognition of
